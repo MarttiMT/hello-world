@@ -1,2 +1,2 @@
 # hello-world
-the famous Hello World tutorial
+The famous Hello World tutorial!
