@@ -1,2 +1,3 @@
 # hello-world
-the famous Hello World tutorial
+The famous Hello World tutorial!
+(capital 'T' and exclamation mark at the end)
